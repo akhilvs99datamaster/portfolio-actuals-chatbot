@@ -9,6 +9,9 @@ A Streamlit-based AI chatbot that can analyze and answer questions from Excel fi
 - Get answers and filtered data
 - Download the result as Excel
 
+![image](https://github.com/user-attachments/assets/6415e4cf-a031-4958-87ec-45702e4704dc)
+
+
 ## 📦 How to Run
 
 ```bash
